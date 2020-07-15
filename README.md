@@ -21,13 +21,7 @@ This project is a starting point for a Flutter application.
   Must work offline (will be tested with airplane mode)
   Should support multiple resolutions and sizes
   Can be built with latests SDKs
-  NASA Astronomy Picture of the Day retrieval:
-  You must use: https://api.nasa.gov/
-  API KEY: Fty80HkuF2LSDWPVutz34KJ4MXh9JWWKo8degZO4
-  An example of a call using the api key is https://api.nasa.gov/planetary/apod?api_key=Fty80HkuF2LSDWPVutz34KJ4MXh9JWWKo8deg ZO4&count=10
-  Documentation of the API is here
-  https://github.com/nasa/apod-api#endpoint-versionapod
-  
+
 ## Extras
   User interface prototyped on Figma: https://www.figma.com/proto/8nHVTAMcUn78WvwICXZyuT/NasaApp?node-id=4%3A223&scaling=scale-down
   
