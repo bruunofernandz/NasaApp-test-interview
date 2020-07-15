@@ -1,6 +1,10 @@
 # nasa_app
 
-A new Flutter project.
+  A new Flutter project.
+  
+  User interface prototyped on Figma: https://www.figma.com/proto/8nHVTAMcUn78WvwICXZyuT/NasaApp?node-id=4%3A223&scaling=scale-down
+  
+  How to use app on video -> https://youtu.be/zc3NOjUeS34
 
 ## Getting Started
 
@@ -21,8 +25,3 @@ This project is a starting point for a Flutter application.
   Must work offline (will be tested with airplane mode)
   Should support multiple resolutions and sizes
   Can be built with latests SDKs
-
-## Extras
-  User interface prototyped on Figma: https://www.figma.com/proto/8nHVTAMcUn78WvwICXZyuT/NasaApp?node-id=4%3A223&scaling=scale-down
-  
-  How to use app on video -> https://youtu.be/zc3NOjUeS34
